@@ -1,2 +1,2 @@
 # scrape-ct
-Scrape a list of candidates and PACs in CT
+A simple python script for scraping a list of candidates and PACs in CT
